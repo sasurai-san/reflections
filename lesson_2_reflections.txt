@@ -7,3 +7,6 @@
  - How is the staging area different from the working directory and the repository? What value do you think it offers?
 	it adds only history of files, not files themselves(?)
 
+ - How can you use the staging area to make sure you have one commit per logical change?
+    you use git status to see what files you've modified and what exactly you've modified. then you can compare these changes to recent commit and make sure that it corresponds with only one logical change.
+
