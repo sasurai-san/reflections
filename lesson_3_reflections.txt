@@ -13,3 +13,7 @@
 - What is the benefit of having a copy of the last known state of the remote stored locally?
 
 you can see how a merge will affect things before you actually implement it on github.
+
+ - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+ preventing unnecessary changes to code would be easier. making changes to code would be harder(waiting for pull request, etc)
